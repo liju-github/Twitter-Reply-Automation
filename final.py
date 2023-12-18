@@ -106,7 +106,7 @@ print(f"Using the keyword --{random_keyword}--  for searching tweets")
 search_query = f'{random_keyword} -is:retweet'
 
 yourproxy1 = random.choice(proxy_list)
-bearer_token = 'AAAAAAAAAAAAAAAAAAAAAHFCqQEAAAAAn%2BRr5uPoGBBeyNSlPkMAAa1tKtg%3D1FkUNmLGEi9VLoqZMcBt9HJ2xepflU2MDYXZqZFSvNGP4HtF4a'
+bearer_token = ''
 
 tweet_ids_list = []
 
